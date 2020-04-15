@@ -1,0 +1,76 @@
+.ext-demo-header {
+  padding: 20px;
+}
+
+.ext-demo-dark-theme {
+  background-color: #333333;
+  color: whitesmoke;
+}
+
+.ext-demo-light-theme {
+  background-color: whitesmoke;
+  color: #333333;
+}
+
+.ext-demo-dark-theme-background {
+  background-color: #4e4e4e;
+  color: whitesmoke;
+}
+
+.ext-demo-light-theme-background {
+  background-color: white;
+  color: #4e4e4e;
+}
+
+.ext-demo-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.ext-demo-item {
+  box-sizing: border-box;
+  max-width: 50%;
+  margin: 10px;
+}
+
+.ext-demo-profile {
+  padding-left: 5%;
+}
+
+.ext-demo-row-gap {
+  padding: 0.5rem 0;
+  margin: 0.5rem 0;
+}
+
+.ext-demo-layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.ext-demo-theme-btn {
+  align-self: flex-end;
+  padding: 10px;
+  border: none;
+  margin: 10px;
+}
+
+.ext-demo-theme-btn,
+.ext-demo-font {
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.ext-demo-bold {
+  font-weight: bolder;
+  color: #f92a2a;
+}
+
+.ext-image-border {
+  border-style: dotted;
+  border-width: 10px;
+}
+
+.ext-image-margin {
+  margin: 10px;
+}
